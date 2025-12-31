@@ -67,8 +67,8 @@ export default function Project() {
       medias: [
         "/landingpage.png",
         "/automationtesting.mp4",
-        "/Screenshot2025-12-30-132640.png",
-        "/Screenshot2025-12-30-132559.png.png",
+        "/Screenshot 2025-12-30-132640.png",
+        "/Screenshot2025-12-30-132559.png",
       ],
       docs: [
         {
