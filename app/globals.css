@@ -24,3 +24,22 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+.rpx-dot-bg {
+  background-color: #fafaff;
+  background-image: radial-gradient(#d6d9f3 0.8px, transparent 0.8px);
+  background-size: 18px 18px;
+}
+.animated-dots {
+  background-image: radial-gradient(#6366f1 1px, transparent 1px);
+  background-size: 18px 18px;
+  animation: moveDots 12s linear infinite;
+}
+
+@keyframes moveDots {
+  0% {
+    background-position: 0 0;
+  }
+  100% {
+    background-position: 80px 80px;
+  }
+}
