@@ -37,8 +37,6 @@ export default function Navbar() {
           <div className="w-8 h-[3px] bg-gray-700" />
         </button>
       </div>
-
-      {/* Mobile Menu */}
       {open && (
         <div className="md:hidden bg-white border-t px-6 py-4">
           <ul className="flex flex-col gap-4 text-gray-700 font-medium">

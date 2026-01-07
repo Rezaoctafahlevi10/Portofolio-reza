@@ -62,7 +62,7 @@ export default function Hero() {
           </a>
 
           <a
-            href="https://drive.google.com/file/d/1JsDqAeSSPZj-F1BBlFYX_jZEID1jjbYn/view?usp=sharing"
+            href="https://drive.google.com/file/d/1DZ7rSt4f-T8kN_r6OQLZ-0RNyarQnG4X/view?usp=drive_link"
             target="_blank"
             rel="noopener noreferrer"
           >
