@@ -119,7 +119,7 @@ export default function About() {
                   transition={{ duration: 0.4 }}
                   className="bg-white rounded-xl shadow-lg p-4 sm:p-6 border-l-4 border-indigo-500 animate-float"
                 >
-                  <h4 className="text-lg font-semibold text-indigo-900">Senior high school 1 Bangil</h4>
+                  <h4 className="text-lg font-semibold text-indigo-900">Senior High School 1 Bangil</h4>
                   <p className="text-gray-600">Science</p>
                   <span className="text-sm text-gray-400">2018 – 2021</span>
                 </motion.div>
